@@ -1,6 +1,7 @@
 # Вибори президента України 2019
-Рейтинг кандидатів згідно з даними бетінгових платформ
+Рейтинг кандидатів згідно з даними бетінгової платформи: [sports.bwin.com](https://sports.bwin.com/en/sports/61/betting/politics#eventId=&leagueIds=19251&marketGroupId=&page=0&sportId=61)
 
+![Original bwin bets](https://github.com/dym/president_elections_2019_betting/blob/master/bwin_president_elections_betting.png "Вибори президента України 2019")
 
 
 ```python
